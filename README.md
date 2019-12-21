@@ -98,8 +98,9 @@ Submissions to this Special Session should follow the same submission guidelines
 
 ***
 
+![](https://github.com/LeoYiChen/WCCI2020-AIREA/blob/master/tumblr_psdieapOdv1vvczb6o1_1280.jpg)
+![](https://github.com/LeoYiChen/WCCI2020-AIREA/blob/master/tumblr_pt9ag1Rrav1vvczb6o1_1280.jpg)
+![](https://github.com/LeoYiChen/WCCI2020-AIREA/blob/master/tumblr_pt9bkmpARP1rxcvjdo1_1280.jpg)
+![](https://github.com/LeoYiChen/WCCI2020-AIREA/blob/master/tumblr_ptadcai30t1rtx1blo1_640%20(1).jpg)
 ![](https://github.com/LeoYiChen/WCCI2020-AIREA/blob/master/2015-02-21%20Glasgow%20to%20Glencoe_0031.JPG)
-![](https://github.com/LeoYiChen/WCCI2020-AIREA/blob/master/2015-02-21%20Glasgow%20to%20Glencoe_0032.JPG)
-![](https://github.com/LeoYiChen/WCCI2020-AIREA/blob/master/%E6%B8%85%E9%A3%8E%E6%98%8E%E6%9C%88%E9%9B%86-%E5%9B%BE%E6%96%87%E7%89%88-%5B%E8%8F%A9%E8%90%A8%E8%9B%AE.%E5%A4%8F%5D.jpg)
-![](https://github.com/LeoYiChen/WCCI2020-AIREA/blob/master/20150408_113603.jpg)
 
