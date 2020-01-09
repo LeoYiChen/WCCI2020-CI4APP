@@ -21,25 +21,25 @@ The aim of this special session is to understand and advance current state-of-th
 The special issue is open to theoretical, numerical, and experimental contributions that describe original research results, innovative concepts that address all aspects of intelligent design, multi-objective approaches, Industry 4.0, Computational Intelligence (CI) approaches and application of results in multi-disciplinary areas ranging from design and creativity, to smart city services including finance, healthcare, transportation, robotics and automation, etc.
 
 Potential topics include, but are not limited to:
-? High performance design theory and its applications
-? High-volume industrial products for Industry 4.0 customisation and innovation
-? Big Data analytics
-? Machine learning
-? Multi-objective optimisation for design and manufacturing
-? Hardware and software platform for intelligent design automation  
-? Intelligent manufacturing system design, optimisation, control theory and operational research
-? Cyber-physical systems
-? Computer vision
-? Robotics and Autonomous Systems
-? Computational Intelligence
-? Human-machine interface and integration
-? Computer hardware, software, and architectures for flexible automation flexible automation
-? Autonomous design and manufacturing
-? Intelligent operational research and management
-?  Artificial Intelligence in Financial Assets Pricing
-? Computational Intelligence in Smart cities and Financial Services
-? Computational Intelligence in Urban Studies
-? Computational Intelligence in Social Science
+* High performance design theory and its applications
+* High-volume industrial products for Industry 4.0 customisation and innovation
+* Big Data analytic
+* Machine learning
+* Multi-objective optimisation for design and manufacturing
+* Hardware and software platform for intelligent design automation  
+* Intelligent manufacturing system design, optimisation, control theory and operational research
+* Cyber-physical systems
+* Computer vision
+* Robotics and Autonomous Systems
+* Computational Intelligence
+* Human-machine interface and integration
+* Computer hardware, software, and architectures for flexible automation flexible automation
+* Autonomous design and manufacturing
+* Intelligent operational research and management
+*  Artificial Intelligence in Financial Assets Pricing
+* Computational Intelligence in Smart cities and Financial Services
+* Computational Intelligence in Urban Studies
+* Computational Intelligence in Social Science
 
 **4. Organisers**
 
