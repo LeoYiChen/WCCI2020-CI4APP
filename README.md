@@ -1,4 +1,4 @@
-### IEEE WCCI2020 Special Session on Computational Intelligence-Driven Innovation for Multi-disciplinary Applications in the Era of Industry 4.0 (CI4APP)
+### IEEE WCCI2020 Special Session SC24: Computational Intelligence-Driven Innovation for Multi-disciplinary Applications in the Era of Industry 4.0 (CI4APP)
 
 https://wcci2020.org/cross-disciplinary-applications-sessions/ 
 
@@ -95,6 +95,13 @@ Following postdoctoral and academic positions at the Universities of West of Sco
 **6. Submission**
 
 Submissions to this Special Session should follow the same submission guidelines as other papers of WCCI 2020. For more information, please refer to the WCCI2020 (wcci2020.org).
+
+Go to WCCI2020 submission page: https://wcci2020.org/submissions/
+
+Click on CEC: https://ieee-cis.org/conferences/cec2020/upload.php
+
+Select ** SC24. Computational Intelligence-Driven Innovation for Multi-disciplinary Applications in the Era of Industry 4.0 (CI4APP)**
+
 
 ***
 
