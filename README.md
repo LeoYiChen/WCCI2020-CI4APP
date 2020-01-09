@@ -103,6 +103,8 @@ Click on CEC: https://ieee-cis.org/conferences/cec2020/upload.php
 Select ** SC24. Computational Intelligence-Driven Innovation for Multi-disciplinary Applications in the Era of Industry 4.0 (CI4APP)**
 
 
+![](https://github.com/LeoYiChen/WCCI2020-CI4APP/blob/master/SC24.jpg)
+
 ***
 
 ![](https://github.com/LeoYiChen/WCCI2020-AIREA/blob/master/tumblr_psdieapOdv1vvczb6o1_1280.jpg)
