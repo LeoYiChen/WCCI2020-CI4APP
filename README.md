@@ -82,7 +82,7 @@ Following postdoctoral and academic positions at the Universities of West of Sco
 
 **5.Important Dates:**
 
-15 Jan 2020      Paper Submission Deadline
+30 Jan 2020      Paper Submission Deadline
 
 15 Mar 2020     Paper Acceptance Notification Date
 
